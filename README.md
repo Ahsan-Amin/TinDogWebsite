@@ -1,9 +1,10 @@
 # TinDogWebsite
-<img src="./images/Udemy_logo.svg">
-
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="">
+im
 <h2>
 <img src="./images/img_1.png">
 </h2>
+
 # Live Demo 🎥
 <a href="https://ahsan-amin.github.io/TinDogWebsite/">Live Demo Link</a>
 
