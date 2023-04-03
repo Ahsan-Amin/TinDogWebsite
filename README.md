@@ -1,9 +1,15 @@
 # TinDogWebsite
+A tinder website made exclusively for Dogs.
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="">
-im
-<h2>
+
+
+
+# About TinDog
+
+A home page website which provides details of the application to the end user like the desscription of the website, from where we can download the application, a section that displays the feedback from the clients and different plans and subscriptions.
+
+# ScreenShoot
 <img src="./images/img_1.png">
-</h2>
 
 # Live Demo 🎥
 <a href="https://ahsan-amin.github.io/TinDogWebsite/">Live Demo Link</a>
